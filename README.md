@@ -13,7 +13,7 @@ Create a small console-based program that does the following:
 
 Login System: Ask the user for a username and password.
 Verify them against stored values. If correct, grant access. If not, deny and exit.
-(optional) Allow the user to create a new account if they don't have one, storing the credentials securely (e.g., using hashing).)
+(optional) Allow the user to create a new account if they don't have one, storing the credentials securely (e.g., using hashing).
 
 Main Menu: After logging in, show a menu with multiple choices. 
 ### Required options: 
