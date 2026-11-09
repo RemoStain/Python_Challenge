@@ -4,7 +4,7 @@
 1. Python 3.x
 1. pip (Python package installer)
 1. Virtual environment (optional but recommended)
-1. Git (optional, for version control)
+1. Github account (for submission)
 1. A code editor (e.g., VS Code, PyCharm, Sublime Text)
 1. Basic understanding of Python programming
 
@@ -16,22 +16,29 @@ Verify them against stored values. If correct, grant access. If not, deny and ex
 (optional) Allow the user to create a new account if they don't have one, storing the credentials securely (e.g., using hashing).
 
 Main Menu: After logging in, show a menu with multiple choices. 
-### Required menu options: 
+#### Required options: 
 1. Retrieve information from the internet (like weather). 
 1. Simulate a dice roll. 
 1. Play a simple number guessing game.
 1. Show a pop-up message (using a library like `tkinter` or `pymsgbox`).
-1. An example of the pandas library.
+1. Demonstrate the use of JSON.
+1. Demonstrate the use of the pandas library.
+1. Show an understanding of how to read and write files in Python.
 1. Allow the user to update their password. 
 1. Exit the program.
 
-
-User Experience: 
+#### User Experience: 
 - Make sure the program keeps running until the user chooses to exit. 
 - Each menu choice should clearly show results.
 - Invalid inputs should be handled gracefully.
 
+
 ## How to Submit
+### Note:
+This is a coding challenge, not a test. 
+If at any point you feel lost and want to see my version, 
+I have made it as modular as possible to facilitate this.
+
 1. Fork this repository to your GitHub account.
 1. Clone the forked repository to your local machine.
 1. Implement the required features in Python.
@@ -42,8 +49,12 @@ User Experience:
 - Include any additional libraries you used in a `requirements.txt` file for easy installation.
 - Make sure your code is well-documented and follows best practices for readability and maintainability.
 
+### Important Note:
+Be ready to explain your code and design choices during pull request review. 
+The goal is to demonstrate your understanding of Python programming and your ability to implement a functional console-based application.
+
 ## Additional Features (Optional)
 - Implement a feature to log user activity (e.g., login attempts, menu selections).
 - Add a feature to allow users to reset their password if they forget it.
 - Implement a feature to allow users to delete their account.
-- Be creative and add any other features you think would enhance the user experience or demonstrate your programming skills.
+- Be creative and add any other features you think would enhance or demonstrate your programming skills.
