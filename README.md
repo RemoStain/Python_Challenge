@@ -7,9 +7,10 @@
 1. Github account (for submission)
 1. A code editor (e.g., VS Code, PyCharm, Sublime Text)
 1. Basic understanding of Python programming
+	- This challenge will help with the understanding part
 
 ## Challenge
-Create a small console-based program that does the following:
+Create a console-based program that does the following:
 
 Login System: Ask the user for a username and password.
 Verify them against stored values. If correct, grant access. If not, deny and exit.
@@ -58,3 +59,17 @@ The goal is to demonstrate your understanding of Python programming and your abi
 - Add a feature to allow users to reset their password if they forget it.
 - Implement a feature to allow users to delete their account.
 - Be creative and add any other features you think would enhance or demonstrate your programming skills.
+
+
+# Rubric for Evaluation
+#### Please note that the following rubric is a guideline for evaluation and may be adjusted based on the specific requirements of the challenge.
+| Criteria | Points |
+|----------|--------|
+| Each Required Feature Implemented | 10 |
+| User Experience | 10 |
+| Documentation | 20 |
+| Git Usage | 5 |
+| Extra Features | 20 |
+| Readability & Maintainability | 10 |
+| Adherence to Best Practices | 10 |
+
