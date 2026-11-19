@@ -19,7 +19,7 @@ Verify them against stored values. If correct, grant access. If not, deny and ex
 Main Menu: After logging in, show a menu with multiple choices. 
 #### Required options: 
 1. Retrieve information from the internet (like weather). 
-1. Simulate a dice roll. 
+1. Simulate a dice roll.
 1. Play a simple number guessing game.
 1. Show a pop-up message (using a library like `tkinter` or `pymsgbox`).
 1. Demonstrate the use of JSON.
